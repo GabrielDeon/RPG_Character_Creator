@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\bin\Debug\CRUDBasico.exe.config
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\bin\Debug\CRUDBasico.exe
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\bin\Debug\CRUDBasico.pdb
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\obj\Debug\Character Creator.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.index.resources
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\obj\Debug\Character Creator.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\obj\Debug\Character Creator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.exe
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.pdb
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Gabriel\Desktop\CRUDBasico\CRUDBasico\obj\Debug\Character Creator.csproj.CopyComplete
